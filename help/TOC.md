@@ -4,8 +4,8 @@ breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
 user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基本事項、定義について説明します。
 source-git-commit: 8d746d38a6bde1470a30706d43fa6567ebba8dff
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 
@@ -40,7 +40,7 @@ ht-degree: 0%
       + [この [!DNL Marketo Measure] ROI ダッシュボード](onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートの在庫](onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [追加の Salesforce レポート](onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [データウェアハウス](onboarding/marketo-measure-102/data-warehouse.md)
+      + [Data Warehouse](onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] と Salesforce{#marketo-measure-salesforce}
       + [ID 別リードレポート](onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [チャネルとサブチャネルの作成](onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
