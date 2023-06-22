@@ -1,10 +1,10 @@
 ---
 title: エンゲージメントスコア別のアカウント
 description: エンゲージメントスコア別のアカウントの概要を取得します。 このスコアに含まれる指標と、それに関連するレポートについて説明します。
-kt: 11241
+jira: KT-11241
 thumbnail: 347248.jpeg
 exl-id: 0e2a18f2-042c-4a93-80c8-840afb804ff7
-source-git-commit: 0a45382a29ced6f15569c578f1e634caa0b359b7
+source-git-commit: b60003c6fa73401ca980a46ae47be00a1bb457ae
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
