@@ -1,5 +1,5 @@
 ---
-title: 説明 [!DNL Marketo Measure]
+title: ' [!DNL Marketo Measure] とは'
 description: このレッスンでは、Marketo Measureの機能とその理由を簡単に説明します。
 role: User
 level: Beginner
@@ -9,10 +9,10 @@ jira: KT-11679
 thumbnail: 347236.jpeg
 exl-id: 383669ad-a642-48b1-9b72-a8eb8b8af149
 feature: Fundamentals
-source-git-commit: 2fb7fa9e72cc89f3ae867cbbc02fd62fb4b485e6
+source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 0%
+source-wordcount: '34'
+ht-degree: 5%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このレッスンでは、Marketo Measureの機能とその理由を簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}
