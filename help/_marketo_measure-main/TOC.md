@@ -2,7 +2,8 @@
 user-guide-title: "[!DNL Marketo Measure] チュートリアル"
 breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
 user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基本事項、定義について説明します。
-source-git-commit: 544bb31ce388b2952c98bb34622b1a6bbeca5d99
+auto-video-transcripts: true
+source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
 workflow-type: tm+mt
 source-wordcount: '255'
 ht-degree: 7%
@@ -14,7 +15,7 @@ ht-degree: 7%
 
 + [[!DNL Marketo Measure] チュートリアル](overview.md)
 + Marketo Measure Installation {#install}
-   + [Marketo Measureインストール](/help/installing/install-production.md)
+   + [Marketo Measureのインストール](/help/installing/install-production.md)
    + [権限セットの変更](/help/installing/modify-permission-sets-production.md)
    + [レポートとダッシュボードの共有と非表示](/help/installing/sharing-reports-production.md)
    + [を作成します。 [!DNL Marketo Measure] アカウント](/help/installing/creating-marketo-measure-account-production.md)
@@ -22,22 +23,22 @@ ht-degree: 7%
    + マーケティングロール{#marketing-role}
       + [理由 [!DNL Marketo Measure] （CMO および VP 用）](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] CMO または VP として](/help/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [理由 [!DNL Marketo Measure] 需要対応世代/有料メディア](/help/onboarding/marketing-role/demand-gen-why.md)
+      + [理由 [!DNL Marketo Measure] 需要対応世代/有料メディア向け](/help/onboarding/marketing-role/demand-gen-why.md)
       + [用途 [!DNL Marketo Measure] 需要生成/有料メディアマーケターとして](/help/onboarding/marketing-role/demand-gen-using.md)
       + [理由 [!DNL Marketo Measure] コンテンツマーケティング用](/help/onboarding/marketing-role/content-marketing-why.md)
       + [用途 [!DNL Marketo Measure] コンテンツマーケターとして](/help/onboarding/marketing-role/content-marketing-using.md)
-      + [理由 [!DNL Marketo Measure] イベントマーケティング](/help/onboarding/marketing-role/events-marketing-why.md)
+      + [理由 [!DNL Marketo Measure] イベントマーケティングの](/help/onboarding/marketing-role/events-marketing-why.md)
       + [用途 [!DNL Marketo Measure] イベントマーケターとして](/help/onboarding/marketing-role/events-marketing-using.md)
       + [理由 [!DNL Marketo Measure] 電子メールマーケティング用](/help/onboarding/marketing-role/email-marketing-why.md)
       + [用途 [!DNL Marketo Measure] 電子メールマーケターとして](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101{#marketo-measure-101}
       + [属性とは](/help/onboarding/marketo-measure-101/what-is-attribution.md)
-      + [説明 [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
+      + [ [!DNL Marketo Measure] とは](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measureデータ](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [この [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [The [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートの在庫](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [追加の Salesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -64,7 +65,7 @@ ht-degree: 7%
       + [アトリビューションモデル](/help/definitions/attribution/attribution-models.md)
       + [ファーストタッチモデル](/help/definitions/attribution/first-touch-model.md)
       + [リード作成モデル](/help/definitions/attribution/lead-creation-model.md)
-      + [U 字形モデル](/help/definitions/attribution/u-shaped-model.md)
+      + [U 字型モデル](/help/definitions/attribution/u-shaped-model.md)
       + [W 字型モデル](/help/definitions/attribution/w-shaped-model.md)
       + [フルパスモデル](/help/definitions/attribution/full-path-model.md)
    + CRM オブジェクト{#crm-objects}
