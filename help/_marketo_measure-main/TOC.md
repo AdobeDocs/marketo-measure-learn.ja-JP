@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] チュートリアル"
 breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
 user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基本事項、定義について説明します。
 auto-video-transcripts: true
-source-git-commit: 88f70953a105ff0feddda60bed11449a219c824b
+source-git-commit: a71b88cd45d3518569a37e416b4601a2928e816d
 workflow-type: tm+mt
-source-wordcount: '255'
+source-wordcount: '314'
 ht-degree: 7%
 
 ---
@@ -20,6 +20,18 @@ ht-degree: 7%
    + [レポートとダッシュボードの共有と非表示](/help/installing/sharing-reports-production.md)
    + [を作成します。 [!DNL Marketo Measure] アカウント](/help/installing/creating-marketo-measure-account-production.md)
 + オンボーディング{#onboarding}
+   + ベストプラクティス{#best-practices}
+      + [レポート設定の確認 (Pt.1)](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
+      + [チャネルと統合の設定 (Pt.2) の確認](/help/onboarding/fundamentals/channel-integration-settings.md)
+      + [CRM 設定 (Pt.3)](/help/onboarding/fundamentals/crm-settings.md)
+      + [リード、連絡先、商談の設定](/help/onboarding/fundamentals/leads-contacts-opps-settings.md)
+      + [オンラインチャネルの設定](/help/onboarding/fundamentals/online-channel-setup.md)
+      + [Ads 接続の概要](/help/onboarding/fundamentals/ads-connection-overview.md)
+      + [SFDC インストールの概要](/help/onboarding/fundamentals/sfdc-installation-overview.md)
+      + [オフラインチャネルの設定](/help/onboarding/fundamentals/offline-channel-setup.md)
+      + [接続とMarketo Engage](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
+      + [アクティビティタッチポイント](/help/onboarding/fundamentals/activity-touchpoints.md)
+      + [抑制、セグメント化、コスト](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
    + マーケティングロール{#marketing-role}
       + [理由 [!DNL Marketo Measure] （CMO および VP 用）](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [使用 [!DNL Marketo Measure] CMO または VP として](/help/onboarding/marketing-role/cmo-and-vp-using.md)
@@ -54,6 +66,9 @@ ht-degree: 7%
       + [アクティビティ属性](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [の概要 [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [パフォーマンスが高いチャネルを特定します (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
+   + [パフォーマンスが高いチャネルを特定します (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
+   + [Discover ファネルレポート (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + 定義{#definitions}
    + タッチポイント{#touchpoints}
       + [タッチポイントとは](/help/definitions/touchpoints/what-is-a-touchpoint.md)
