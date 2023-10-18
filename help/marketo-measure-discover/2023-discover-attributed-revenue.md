@@ -9,9 +9,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18T00:00:00Z
 jira: KT-14202
 thumbnail: 3425024.jpeg
-source-git-commit: 014e81560b88e7a85c6bfe723883bb477ec6f883
+source-git-commit: ec49829d5ffedaaf18d153cbc89d040daf2f86cb
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '66'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 属性別売上高を見つける — 注目のビデオ
 
-Marketo Measure Discover属性収益ダッシュボード
+属性別売上高ダッシュボードは、マーケティング活動に直接リンクされた売上高に焦点を当てた視点を提供します。 マーケティング戦略が封緘にどのように役立ったかを調べます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425024/?learn=on){transcript=true}
