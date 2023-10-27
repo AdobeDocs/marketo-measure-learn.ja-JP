@@ -1,12 +1,12 @@
 ---
 user-guide-title: "[!DNL Marketo Measure] チュートリアル"
 breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
-user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]), the industry's leading B2B marketing attribution application. Watch tutorials on installation, onboarding, [!DNL Marketo Measure] 基本事項、定義について説明します。
+user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]) をクリックします。 インストール、オンボーディング、 の基本および定義に関するチュートリアルをご覧ください。
 auto-video-transcripts: true
-source-git-commit: 1e0a4e4b256f47d7c04455990083c4044cd04284
+source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '314'
-ht-degree: 7%
+source-wordcount: '319'
+ht-degree: 10%
 
 ---
 
