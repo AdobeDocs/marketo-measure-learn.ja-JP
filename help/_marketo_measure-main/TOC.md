@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] チュートリアル"
 breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
 user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]) をクリックします。 インストール、オンボーディング、 の基本および定義に関するチュートリアルをご覧ください。
 auto-video-transcripts: true
-source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
+source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
 workflow-type: tm+mt
-source-wordcount: '319'
+source-wordcount: '328'
 ht-degree: 10%
 
 ---
@@ -66,6 +66,9 @@ ht-degree: 10%
       + [アクティビティ属性](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover{#marketo-measure-discover}
    + [の概要 [!DNL Marketo Measure] Discover](/help/marketo-measure-discover/introduction-to-marketo-measure-discover.md)
+   + [Discover の概要ダッシュボード](/help/marketo-measure-discover/2023-discover-overview-dashboard.md)
+   + [属性売上高を検出](/help/marketo-measure-discover/2023-discover-attributed-revenue.md)
+   + [ROI ダッシュボードの確認](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [パフォーマンスが高いチャネルを特定します (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [パフォーマンスが高いチャネルを特定します (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover ファネルレポート (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
