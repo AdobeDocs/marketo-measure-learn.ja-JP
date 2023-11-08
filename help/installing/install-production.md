@@ -1,6 +1,6 @@
 ---
 title: インストール（実稼動インスタンス）
-description: の実稼動インスタンスのインストールについて説明します。 [!DNL Marketo Measure].
+description: ' [!DNL Marketo Measure] の実稼動インスタンスのインストールについて説明します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 63%
 
 ---
 
 # [!DNL Marketo Measure] インストール（実稼動インスタンス）
 
-の実稼動インスタンスのインストールについて説明します。 [!DNL Marketo Measure].
+[!DNL Marketo Measure] の実稼動インスタンスのインストールについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
