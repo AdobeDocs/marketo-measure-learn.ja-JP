@@ -3,9 +3,9 @@ user-guide-title: "[!DNL Marketo Measure] チュートリアル"
 breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
 user-guide-description: ' [!DNL Adobe Marketo Measure] （以前の  [!DNL Bizible]）を最大限に活用する方法について説明します。インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。'
 auto-video-transcripts: true
-source-git-commit: 2ba22dad2b35ddcc106c0afa89253669b9ad5291
+source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
 workflow-type: tm+mt
-source-wordcount: '328'
+source-wordcount: '340'
 ht-degree: 12%
 
 ---
@@ -72,6 +72,8 @@ ht-degree: 12%
    + [パフォーマンスが高いチャネルを特定します (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [パフォーマンスが高いチャネルを特定します (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover ファネルレポート (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
++ [!DNL Marketo Measure] ライブチャット {#live-chat}
+   + [マーケティング属性と指標](/help/_assets/marketing attribution and metrics.md)
 + 定義{#definitions}
    + タッチポイント{#touchpoints}
       + [タッチポイントとは](/help/definitions/touchpoints/what-is-a-touchpoint.md)
