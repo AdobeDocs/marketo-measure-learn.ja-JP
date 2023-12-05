@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] チュートリアル"
-breadcrumb-title: "[!DNL Marketo Measure] チュートリアル"
-user-guide-description: ' [!DNL Adobe Marketo Measure] （以前の  [!DNL Bizible]）を最大限に活用する方法について説明します。インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。'
+user-guide-title: '"[!DNL Marketo Measure] Tutorials»'
+breadcrumb-title: '"[!DNL Marketo Measure] Tutorials»'
+user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]) をクリックします。 インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。
 auto-video-transcripts: true
-source-git-commit: bde41ed650e57bf84955d8d895e44699d9b48442
+source-git-commit: beed01aaeb638853c082ecedb2c5b31e5d06fbe4
 workflow-type: tm+mt
-source-wordcount: '340'
-ht-degree: 12%
+source-wordcount: '334'
+ht-degree: 3%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 12%
       + [用途 [!DNL Marketo Measure] 電子メールマーケターとして](/help/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101{#marketo-measure-101}
       + [属性とは](/help/onboarding/marketo-measure-101/what-is-attribution.md)
-      + [ [!DNL Marketo Measure] とは](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
+      + [説明 [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measureデータ](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
@@ -53,7 +53,7 @@ ht-degree: 12%
       + [The [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートの在庫](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [追加の Salesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
-      + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
+      + [データウェアハウス](/help/onboarding/marketo-measure-102/data-warehouse.md)
    + [!DNL Marketo Measure] と Salesforce{#marketo-measure-salesforce}
       + [ID 別リードレポート](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [チャネルとサブチャネルの作成](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
@@ -72,15 +72,13 @@ ht-degree: 12%
    + [パフォーマンスが高いチャネルを特定します (Pt.1)](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [パフォーマンスが高いチャネルを特定します (Pt.2)](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
    + [Discover ファネルレポート (Pt.3)](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
-+ [!DNL Marketo Measure] ライブチャット {#live-chat}
-   + [マーケティング属性と指標](/help/_assets/marketing attribution and metrics.md)
 + 定義{#definitions}
    + タッチポイント{#touchpoints}
       + [タッチポイントとは](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [マイルストーンタッチポイント](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [タッチポイントコンポーネント](/help/definitions/touchpoints/touchpoint-components.md)
       + [オンラインとオフラインのタッチポイント](/help/definitions/touchpoints/online-offline-touchpoints.md)
-   + アトリビューション{#attribution}
+   + 帰属{#attribution}
       + [属性とは](/help/definitions/attribution/what-is-attribution.md)
       + [アトリビューションモデル](/help/definitions/attribution/attribution-models.md)
       + [ファーストタッチモデル](/help/definitions/attribution/first-touch-model.md)
@@ -112,3 +110,5 @@ ht-degree: 12%
    + ブーメランステージ{#boomerang-stage}
       + [ブーメラン段階の紹介](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [ブーメランステージの設定](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
++ 伝道者の話 {#evangelist}
+   + [マーケティング属性と指標](/help/evangelist-talks/attribution-and-metrics.md)
