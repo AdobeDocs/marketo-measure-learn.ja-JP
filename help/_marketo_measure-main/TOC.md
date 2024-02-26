@@ -3,9 +3,9 @@ user-guide-title: '"[!DNL Marketo Measure] Tutorials»'
 breadcrumb-title: '"[!DNL Marketo Measure] Tutorials»'
 user-guide-description: を最大限に活用する方法を学ぶ [!DNL Adobe Marketo Measure] ( 以前の [!DNL Bizible]) をクリックします。 インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。
 auto-video-transcripts: true
-source-git-commit: 9eefc4c2fdbbd031a7c0a8ba0a6bcc892cd11771
+source-git-commit: 8a8e0a492cefe2a448f38089181f675005e6a471
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '342'
 ht-degree: 3%
 
 ---
@@ -113,3 +113,5 @@ ht-degree: 3%
 + 伝道者の話 {#evangelist}
    + [マーケティング属性と指標](/help/evangelist-talks/attribution-and-metrics.md)
    + [マーケティング属性の成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
+   + [マーケティングアトリビューションとデータサイロ](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
+
