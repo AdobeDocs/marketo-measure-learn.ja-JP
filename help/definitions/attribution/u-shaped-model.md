@@ -1,6 +1,6 @@
 ---
-title: U 字形モデル
-description: このビデオでは、U 字形モデルの詳細な説明を提供します。
+title: U字型モデル
+description: このビデオでは、U字型モデルの詳細な説明を行います。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# U 字形モデル
+# U字型モデル
 
-このビデオでは、U 字形モデルの詳細な説明を提供します。
+このビデオでは、U字型モデルの詳細な説明を行います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}

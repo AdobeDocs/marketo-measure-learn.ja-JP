@@ -1,6 +1,6 @@
 ---
 title: リードオブジェクト
-description: リードオブジェクトと [!DNL Marketo Measure] タッチポイントオブジェクト。
+description: リードオブジェクトとタッチポイントオブジェクト間の関係の分類  [!DNL Marketo Measure]  監視します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
 # リードオブジェクト
 
-リードオブジェクトと [!DNL Marketo Measure] タッチポイントオブジェクト。
+リードオブジェクトと [!DNL Marketo Measure] のタッチポイントオブジェクトとの間の関係の分類を監視します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347228/?learn=on){transcript=true}

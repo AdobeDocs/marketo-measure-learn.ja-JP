@@ -1,6 +1,6 @@
 ---
-title: 理由 [!DNL Marketo Measure] (Demand Gen/Paid Media)
-description: このレッスンの概要 [!DNL Marketo Measure]Demand Gen チームと Paid Media チームの主な機能と価値。
+title: 需要  [!DNL Marketo Measure]  生成/有料メディアを求める理由
+description: このレッスンでは  [!DNL Marketo Measure] の主な機能と、Demand Gen チームと有料メディアチームの価値について説明します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ hidefromtoc: true
 source-git-commit: e33fed526bafe2ca3eb8ebb31b315db079a2d887
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 理由 [!DNL Marketo Measure] (Demand Gen/Paid Media)
+# 需要 [!DNL Marketo Measure] 生成/有料メディアを選ぶ理由
 
-このレッスンの概要 [!DNL Marketo Measure]Demand Gen チームと Paid Media チームの主な機能と価値。
+このレッスンでは、[!DNL Marketo Measure] の主な機能と、Demand Gen チームと有料メディアチームの価値について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347169/?learn=on){transcript=true}

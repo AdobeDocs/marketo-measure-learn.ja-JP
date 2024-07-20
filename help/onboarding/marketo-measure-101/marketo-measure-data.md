@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] データ"
-description: このレッスンでは、 [!DNL Marketo Measure] 以下を含むデータソース： [!DNL Marketo Measure] JavaScript、API 統合、UTM パラメーター、CRM データおよび手動で入力したデータ。
+title: "[!DNL Marketo Measure] Data"
+description: このレッスンでは、 [!DNL Marketo Measure] JavaScript、API 統合、UTM パラメーター、CRM データ、手動入力データを含む  [!DNL Marketo Measure]  データソースの概要を説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 4%
 
 ---
 
-# [!DNL Marketo Measure] データ
+# [!DNL Marketo Measure] Data
 
-このレッスンでは、 [!DNL Marketo Measure] 以下を含むデータソース： [!DNL Marketo Measure] JavaScript、API 統合、UTM パラメーター、CRM データおよび手動で入力したデータ。
+このレッスンでは、[!DNL Marketo Measure] JavaScript、API 統合、UTM パラメーター、CRM データ、手動入力データなど、[!DNL Marketo Measure] データソースの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}

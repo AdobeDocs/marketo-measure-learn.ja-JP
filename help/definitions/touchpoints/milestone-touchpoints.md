@@ -1,6 +1,6 @@
 ---
 title: マイルストーンタッチポイント
-description: の主要なマイルストーンについて説明します。 [!DNL Marketo Measure] そして、その作成方法も説明します。
+description: の主要なマイルストーンと  [!DNL Marketo Measure]  その作成方法について説明します。
 doc-type: Feature Video
 last-substantial-update: 2023-01-06T00:00:00Z
 jira: KT-11323
@@ -10,12 +10,12 @@ feature: Touchpoints
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
 # マイルストーンタッチポイント
 
-の主要なマイルストーンについて説明します。 [!DNL Marketo Measure] そして、その作成方法も説明します。
+[!DNL Marketo Measure] の主要なマイルストーンとその作成方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}

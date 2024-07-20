@@ -1,6 +1,6 @@
 ---
-title: Discover の概要ダッシュボード
-description: 売上高の概要ダッシュボードは、CRM から得られる総売上高に関するインサイトを提供し、マーケティング戦略の役割を明らかにします。 マーケティングが全体的な売上高に与える影響と、契約の成功の終了にどのように貢献しているかに関する概要を提供します。
+title: 概要ダッシュボードの確認
+description: 売上高の概要ダッシュボードは、CRM から得られた合計売上高に関するインサイトを提供し、マーケティング戦略の役割を明らかにします。 マーケティングが全体的な売上高に与える影響や、契約の正常なクローズに貢献する方法の概要が表示されます。
 feature-set: Marketo Measure
 feature: Discover, Reporting
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-18T00:00:00Z
 jira: KT-14204
 thumbnail: 3425025.jpeg
-source-git-commit: be67f26913ff0d7e93d61711432d1448c8a00626
+exl-id: c361a248-6f13-4742-8c60-1615a329b240
+source-git-commit: af63fa0af66ad5c3a57f116fb9c02b34171fc7db
 workflow-type: tm+mt
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
+# 概要ダッシュボードの確認 – 注目のビデオ
 
-# Discover の概要ダッシュボード — おすすめビデオ
-
-売上高の概要ダッシュボードは、CRM から得られる総売上高に関するインサイトを提供し、マーケティング戦略の役割を明らかにします。 マーケティングが全体的な売上高に与える影響と、契約の成功の終了にどのように貢献しているかに関する概要を提供します。
+売上高の概要ダッシュボードは、CRM から得られた合計売上高に関するインサイトを提供し、マーケティング戦略の役割を明らかにします。 マーケティングが全体的な売上高に与える影響や、契約の正常なクローズに貢献する方法の概要が表示されます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}

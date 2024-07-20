@@ -1,6 +1,6 @@
 ---
 title: ブーメランステージの設定
-description: ブーメランコースシリーズの 2 つ目のレッスンをご覧ください。 このレッスンを見る前に、最初のレッスンを受けてください。 ここでは、 [!DNL Marketo Measure].
+description: ブーメランコースシリーズの 2 番目のレッスンをご覧ください。 最初の授業を受けてから、これを見てください。 ここでは、 [!DNL Marketo Measure] でのブーメランステージの設定について説明します。
 jira: KT-11243
 thumbnail: 347225.jpeg
 exl-id: 01d5846a-1a00-43e8-8032-90e37182772f
@@ -8,12 +8,12 @@ feature: Boomerang
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '60'
-ht-degree: 6%
+ht-degree: 10%
 
 ---
 
-# 設定 [!UICONTROL ブーメランステージ]
+# [!UICONTROL  ブーメランステージ ] の設定
 
-ブーメランコースシリーズの 2 つ目のレッスンをご覧ください。 このレッスンを見る前に、最初のレッスンを受けてください。 ここでは、 [!UICONTROL ブーメランステージ] in [!DNL Marketo Measure].
+ブーメランコースシリーズの 2 番目のレッスンをご覧ください。 最初の授業を受けてから、これを見てください。 ここでは、[!DNL Marketo Measure] での [!UICONTROL  ブーメランステージ ] の設定について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347225/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: 理由 [!DNL Marketo Measure] （CMO および VP 向け）
-description: このレッスンの概要 [!DNL Marketo Measure]CMO やその他の上級マーケティングリーダーにとっての主な特長と価値。
+title: CMO [!DNL Marketo Measure] VP にとってのメリット
+description: このレッスンでは、 [!DNL Marketo Measure] の主な機能と価値について、CMO やその他のシニアマーケティングリーダー向けに説明します。
 role: Leader
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ hidefromtoc: true
 source-git-commit: a9b06f57d18fb8854ace2fe61aa153994e8d8be2
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 理由 [!DNL Marketo Measure] （CMO および VP 向け）
+# CMO と VP を [!DNL Marketo Measure] う理由
 
-このレッスンの概要 [!DNL Marketo Measure]CMO やその他の上級マーケティングリーダーにとっての主な特長と価値。
+このレッスンでは、[!DNL Marketo Measure] の主な機能と価値を、CMO やその他のシニアマーケティングリーダー向けに要約します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347173/?learn=on){transcript=true}

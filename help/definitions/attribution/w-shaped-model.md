@@ -1,6 +1,6 @@
 ---
-title: W 字型モデル
-description: このビデオでは、W 字型モデルの詳細を説明します。
+title: W字型モデル
+description: このビデオでは、W字型モデルの詳細な説明を行います。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# W 字型モデル
+# W字型モデル
 
-このビデオでは、W 字型モデルの詳細を説明します。
+このビデオでは、W字型モデルの詳細な説明を行います。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}

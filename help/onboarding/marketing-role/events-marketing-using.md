@@ -1,6 +1,6 @@
 ---
-title: 使用 [!DNL Marketo Measure] イベントマーケターとして
-description: このレッスンでは、イベントマーケティングチームがどのように使用するかを簡単に説明します。 [!DNL Marketo Measure] 彼らの仕事の役割で
+title: イベントマ  [!DNL Marketo Measure]  ケターとしての使用
+description: このレッスンでは、イベントマーケティングチームが担当業務でどのように  [!DNL Marketo Measure]  用するかを簡単に説明します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Fundamentals
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '46'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用 [!DNL Marketo Measure] イベントマーケターとして
+# イベントマーケターとしての [!DNL Marketo Measure] の使用
 
-このレッスンでは、イベントマーケティングチームがどのように使用するかを簡単に説明します。 [!DNL Marketo Measure] 彼らの仕事の役割で
+このレッスンでは、イベントマーケティングチームが担当業務で [!DNL Marketo Measure] を使用する方法の簡単なデモを示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347172/?learn=on){transcript=true}

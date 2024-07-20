@@ -1,6 +1,6 @@
 ---
-title: オポチュニティオブジェクト
-description: A と B の関係の内訳を監視する [!DNL Marketo Measure] と Opportunity オブジェクト
+title: 商談オブジェクト
+description: と Opportunity オブジェクト間の関係の分類  [!DNL Marketo Measure]  注目してください。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '28'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-# オポチュニティオブジェクト
+# 商談オブジェクト
 
-A と B の関係の内訳を監視する [!DNL Marketo Measure] と Opportunity オブジェクト
+[!DNL Marketo Measure] と Opportunity オブジェクト間の関係の詳細を確認します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}

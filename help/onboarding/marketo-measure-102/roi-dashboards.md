@@ -1,6 +1,6 @@
 ---
-title: The [!DNL Marketo Measure] ROI ダッシュボード
-description: このレッスンでは、内で使用可能な設定可能なダッシュボードの概要を説明します [!DNL Marketo Measure].
+title: ' [!DNL Marketo Measure] ROI ダッシュボード'
+description: このレッスンでは、 [!DNL Marketo Measure] 内で使用可能な設定可能なダッシュボードの概要を説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# The [!DNL Marketo Measure] ROI ダッシュボード
+# [!DNL Marketo Measure] ROI ダッシュボード
 
-このレッスンでは、内で使用可能な設定可能なダッシュボードの概要を説明します [!DNL Marketo Measure].
+このレッスンでは、[!DNL Marketo Measure] 内で使用可能な設定可能なダッシュボードの概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}

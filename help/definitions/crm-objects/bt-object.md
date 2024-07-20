@@ -1,6 +1,6 @@
 ---
-title: Marketo Measure Touchpoint オブジェクト
-description: 以下について説明します。 [!DNL Marketo Measure] タッチポイント。
+title: Marketo Measure タッチポイントオブジェクト
+description: タッチポイント  [!DNL Marketo Measure]  ついて説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '18'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
-# Marketo Measure Touchpoint オブジェクト
+# Marketo Measure タッチポイントオブジェクト
 
-以下について説明します。 [!DNL Marketo Measure] タッチポイント。
+[!DNL Marketo Measure] タッチポイントの詳細をご覧ください。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347219/?learn=on){transcript=true}

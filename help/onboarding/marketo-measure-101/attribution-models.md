@@ -1,6 +1,6 @@
 ---
-title: アトリビューションモデル
-description: このレッスンでは、アトリビューションモデルを定義し、 [!DNL Marketo Measure]、 、各を使用するタイミング  標準のルールベースモデル、カスタムモデル、AI/ML レコメンデーションについて説明します。
+title: 属性モデル
+description: このレッスンでは、アトリビューションモデルの定義、 [!DNL Marketo Measure] に含まれる様々なモデルの説明、各モデルを使用するタイミングについて説明します。  標準ルールベースモデル、カスタムモデル、AI/ML 推奨事項について説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 6%
+ht-degree: 3%
 
 ---
 
-# アトリビューションモデル
+# 属性モデル
 
-このレッスンでは、アトリビューションモデルを定義し、 [!DNL Marketo Measure]、 、各を使用するタイミング  標準のルールベースモデル、カスタムモデル、AI/ML レコメンデーションについて説明します。
+このレッスンでは、アトリビューションモデルを定義し、[!DNL Marketo Measure] に含まれる様々なモデルと、各モデルを使用するタイミングについて説明します。  標準ルールベースモデル、カスタムモデル、AI/ML 推奨事項について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347240/?learn=on){transcript=true}

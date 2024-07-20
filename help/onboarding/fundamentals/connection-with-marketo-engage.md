@@ -1,5 +1,5 @@
 ---
-title: 接続とMarketo Engage
+title: Marketo Engageとの接続
 description: Connected Marketo MeasureとMarketo Engageの概要
 feature-set: Marketo Measure
 feature: Integration, Touchpoints
@@ -9,15 +9,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14047
 thumbnail: 3424426.jpeg
-source-git-commit: 935daad34e4e20a02bc36958a64f782707573bc7
+exl-id: f5bcab7e-16f0-4385-b5e6-14a41768046a
+source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 0%
+ht-degree: 7%
 
 ---
 
-
-# 接続とMarketo Engage
+# Marketo Engageとの接続
 
 Connected Marketo MeasureとMarketo Engageの概要
 

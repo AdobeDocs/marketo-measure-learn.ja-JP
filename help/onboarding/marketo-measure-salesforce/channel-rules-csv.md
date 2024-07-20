@@ -1,6 +1,6 @@
 ---
-title: CSV ファイルを使用したチャネルルールの設定
-description: このレッスンでは、の設定方法について説明します。 [!DNL Marketo Measure] チャネルルールに CSV ファイルを使用します。
+title: CSV ファイルを使用したチャネルルールのセットアップ
+description: このレッスンでは、CSV ファイルを使用してルールをセットアップ  [!DNL Marketo Measure]  チャネルする方法について説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Salesforce, Channels
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# CSV ファイルを使用したチャネルルールの設定
+# CSV ファイルを使用したチャネルルールのセットアップ
 
-このレッスンでは、の設定方法について説明します。 [!DNL Marketo Measure] チャネルルールに CSV ファイルを使用します。
+このレッスンでは、CSV ファイルを使用してチャネルルール [!DNL Marketo Measure] 設定する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347237/?learn=on){transcript=true}

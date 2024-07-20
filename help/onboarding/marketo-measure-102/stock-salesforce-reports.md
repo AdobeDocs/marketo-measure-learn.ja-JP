@@ -1,6 +1,6 @@
 ---
-title: Salesforce レポートの在庫
-description: このレッスンでは、に含まれる標準の事前作成済み Salesforce CRM レポートおよびデータオブジェクトについて説明します。 [!DNL Marketo Measure].
+title: Salesforce レポートを保管
+description: このレッスンでは、 [!DNL Marketo Measure] に含まれる、標準の事前定義済み Salesforce CRM レポートとデータオブジェクトについて説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Salesforce, Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# Salesforce レポートの在庫
+# Salesforce レポートを保管
 
-このレッスンでは、に含まれる標準の事前作成済み Salesforce CRM レポートおよびデータオブジェクトについて説明します。 [!DNL Marketo Measure].
+このレッスンでは、[!DNL Marketo Measure] に含まれる標準の事前定義済み Salesforce CRM レポートとデータオブジェクトについて説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}

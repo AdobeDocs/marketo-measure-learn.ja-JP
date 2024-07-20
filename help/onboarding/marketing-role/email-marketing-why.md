@@ -1,6 +1,6 @@
 ---
-title: 理由 [!DNL Marketo Measure] 電子メールマーケティング用
-description: このレッスンの概要 [!DNL Marketo Measure]電子メールマーケターにとってのの主な機能と価値。
+title: メ  [!DNL Marketo Measure]  ルマーケティングを使用する理由
+description: このレッスンでは  [!DNL Marketo Measure] の主な機能とメールマーケターにとっての価値について説明します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ hidefromtoc: true
 source-git-commit: ade1c08ff54952f7a19711d5bf0aaf5694e545a4
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 理由 [!DNL Marketo Measure] 電子メールマーケティング用
+# メールマーケティングに [!DNL Marketo Measure] を使用する理由
 
-このレッスンの概要 [!DNL Marketo Measure]電子メールマーケターにとってのの主な機能と価値。
+このレッスンでは、[!DNL Marketo Measure] の主な機能とメールマーケターにとっての価値について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}

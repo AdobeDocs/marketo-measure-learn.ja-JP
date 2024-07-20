@@ -1,6 +1,6 @@
 ---
-title: チャネルと統合の設定 (Pt.2) の確認
-description: Marketo Measureのチャネルと統合の設定の概要です。
+title: チャネルと統合設定の確認（Pt.2）
+description: Marketo Measureのチャネルと統合の設定の概要。
 feature-set: Marketo Measure
 feature: Fundamentals, Touchpoints, Tracking
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14045
 thumbnail: 3424430.jpeg
-source-git-commit: 784ea38218d817628a809530f5c69d65a9be80ff
+exl-id: f2ad32ab-568c-4d05-8e31-5e3dc70ef6b8
+source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
+# チャネルと統合設定の確認
 
-# チャネルと統合の設定の確認
-
-Marketo Measureのチャネルと統合の設定の概要です。
+Marketo Measureのチャネルと統合の設定の概要。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}

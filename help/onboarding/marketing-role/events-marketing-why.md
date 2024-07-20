@@ -1,6 +1,6 @@
 ---
-title: 理由 [!DNL Marketo Measure] イベントマーケティング用
-description: このレッスンの概要 [!DNL Marketo Measure]イベントマーケティングチーム向けのの主な機能と価値。
+title: イベン  [!DNL Marketo Measure]  マーケティングに適した理由
+description: このレッスンでは  [!DNL Marketo Measure] の主な機能とイベントマーケティングチームにとっての価値について説明します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ hidefromtoc: true
 source-git-commit: d8164c4838e2b10d80e873a4ad8a5442daef7d1b
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 理由 [!DNL Marketo Measure] イベントマーケティング用
+# イベントマーケティングを [!DNL Marketo Measure] う理由
 
-このレッスンの概要 [!DNL Marketo Measure]イベントマーケティングチーム向けのの主な機能と価値。
+このレッスンでは、[!DNL Marketo Measure] の主な機能とイベントマーケティングチームにとっての価値について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347178/?learn=on){transcript=true}

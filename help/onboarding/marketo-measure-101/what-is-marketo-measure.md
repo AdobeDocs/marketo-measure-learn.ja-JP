@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Marketo Measure] とは'
-description: このレッスンでは、Marketo Measureの機能とその理由を簡単に説明します。
+title: 何  [!DNL Marketo Measure]
+description: このレッスンでは、Marketo Measureの機能とその理由について簡単に説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,6 +18,6 @@ ht-degree: 5%
 
 # Marketo Measureとは
 
-このレッスンでは、Marketo Measureの機能とその理由を簡単に説明します。
+このレッスンでは、Marketo Measureの機能とその理由について簡単に説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}

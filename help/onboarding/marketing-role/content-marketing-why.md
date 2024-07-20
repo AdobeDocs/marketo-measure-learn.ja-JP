@@ -1,6 +1,6 @@
 ---
-title: 理由 [!DNL Marketo Measure] （コンテンツマーケティング用）
-description: このレッスンの概要 [!DNL Marketo Measure]コンテンツマーケティングチームにとっての主な機能と価値です。
+title: コ  [!DNL Marketo Measure]  テンツマーケティングを使用する理由
+description: このレッスンでは  [!DNL Marketo Measure] コンテンツマーケティングチームの主な機能と価値について説明します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -13,12 +13,12 @@ hidefromtoc: true
 source-git-commit: 0b8e2531dec2557bf306f5af6305fe6ffb9c6c37
 workflow-type: tm+mt
 source-wordcount: '34'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# 理由 [!DNL Marketo Measure] （コンテンツマーケティング用）
+# コンテンツマーケティングに [!DNL Marketo Measure] する理由
 
-このレッスンの概要 [!DNL Marketo Measure]コンテンツマーケティングチームにとっての主な機能と価値です。
+このレッスンでは、コンテンツマーケティングチームにとっての [!DNL Marketo Measure] の主な機能と価値について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}

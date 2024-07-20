@@ -1,6 +1,6 @@
 ---
-title: 使用 [!DNL Marketo Measure] コンテンツマーケターとして
-description: このレッスンでは、コンテンツマーケターがどのように使用するかを簡単に説明します [!DNL Marketo Measure] 彼らの仕事の役割で
+title: コンテンツマーケター  [!DNL Marketo Measure]  しての使用
+description: このレッスンでは、コンテンツマーケターが担当業務でどのように  [!DNL Marketo Measure]  用するかを示す簡単なデモを示します。
 role: Leader, User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Fundamentals
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '44'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
-# 使用 [!DNL Marketo Measure] コンテンツマーケターとして
+# コンテンツマーケターとしての [!DNL Marketo Measure] の使用
 
-このレッスンでは、コンテンツマーケターがどのように使用するかを簡単に説明します [!DNL Marketo Measure] 彼らの仕事の役割で
+このレッスンでは、コンテンツマーケターが [!DNL Marketo Measure] を担当業務で使用する方法の簡単なデモを示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347168/?learn=on){transcript=true}

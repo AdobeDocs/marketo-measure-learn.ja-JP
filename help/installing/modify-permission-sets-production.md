@@ -1,6 +1,6 @@
 ---
-title: 権限セットの変更（本番インスタンス）
-description: で権限セットを変更する方法を説明します。 [!DNL Marketo Measure] （実稼動インスタンス）。
+title: 権限セットの変更（実稼動インスタンス）
+description: ' [!DNL Marketo Measure]  （実稼動インスタンス）の権限セットを変更する方法を説明します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# 権限セット（本番インスタンス）の変更
+# 権限セットの変更（本番インスタンス）
 
-で権限セットを変更する方法を説明します。 [!DNL Marketo Measure] （実稼動インスタンス）。
+[!DNL Marketo Measure] （実稼動インスタンス）で権限セットを変更する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}

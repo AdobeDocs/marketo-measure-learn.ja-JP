@@ -1,6 +1,6 @@
 ---
-title: を作成します。 [!DNL Marketo Measure] アカウント
-description: を作成します。 [!DNL Marketo Measure] （旧称 Bizible）アカウントと、広告プラットフォーム（本番インスタンス）に接続します。
+title: アカウント  [!DNL Marketo Measure]  作成
+description: ' [!DNL Marketo Measure]  （旧称 Bizible）アカウントを作成し、広告プラットフォーム（実稼動インスタンス）に接続します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Fundamentals
 source-git-commit: 689dfa5c39b3b7b22656ddd4290323beb87ea3ae
 workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
-# を作成します。 [!DNL Marketo Measure] アカウント
+# [!DNL Marketo Measure] アカウントの作成
 
-以下を作成する方法を説明します。 [!DNL Marketo Measure] アカウントおよびを使用して、広告プラットフォーム（実稼動インスタンス）に接続します。
+[!DNL Marketo Measure] アカウントを作成する方法と広告プラットフォーム（実稼動インスタンス）に接続する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}

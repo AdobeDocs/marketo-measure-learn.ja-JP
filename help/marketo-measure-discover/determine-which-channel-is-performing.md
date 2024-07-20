@@ -1,6 +1,6 @@
 ---
-title: パフォーマンスが高いチャネルを特定します (Pt.2)
-description: このレポートでは、マーケティングファネルの上位から中位に焦点を当てています。 レポートを作成すると、どのチャネルが最も多くのオポチュニティを生み出しているかを確認できるので、それらのマーケティングチャネルに投資できます。
+title: 実行しているチャネルの特定（Pt.2）
+description: このレポートは、マーケティングファネルの上部から中央部に焦点を当てています。 レポートが作成されると、どのチャネルが最も多くの機会を生成しているかを確認できるので、これらのマーケティングチャネルに投資できるようになります。
 feature-set: Marketo Measure
 feature: Discover,Reporting
 role: User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 last-substantial-update: 2023-09-22T00:00:00Z
 jira: KT-14021
 thumbnail: 3424433.jpeg
-source-git-commit: 28c3a8d278efd22a0ddde1b12faee311caee5823
+exl-id: fbbd47f7-3321-46cc-ac4f-6749e0f2c312
+source-git-commit: d2efe7e48e06ebb4f39716f9cc9612bd67451eb5
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 0%
 
 ---
 
+# 実行しているチャネルの特定
 
-# パフォーマンスが高いチャネルを特定する
-
-このレポートでは、マーケティングファネルの上位から中位に焦点を当てています。 レポートを作成すると、どのチャネルが最も多くのオポチュニティを生み出しているかを確認できるので、それらのマーケティングチャネルに投資できます。
+このレポートは、マーケティングファネルの上部から中央部に焦点を当てています。 レポートが作成されると、どのチャネルが最も多くの機会を生成しているかを確認できるので、これらのマーケティングチャネルに投資できるようになります。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)

@@ -1,6 +1,6 @@
 ---
-title: の概要 [!DNL Marketo Measure] 分類
-description: 方法の概要を見る [!DNL Marketo Measure] は、様々な入力を使用してデータを収集および処理し、アトリビューションデータを提供します。
+title: 分類  [!DNL Marketo Measure]  概要
+description: 様々な入力を使用してデータを収集  [!DNL Marketo Measure]  処理してアトリビューションデータを提供する方法の概要について説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# の概要 [!DNL Marketo Measure] 分類
+# 分類 [!DNL Marketo Measure] 概要
 
-方法の概要を説明します [!DNL Marketo Measure] は、様々な入力を使用してデータを収集および処理し、アトリビューションデータを提供します。
+様々な入力を使用し [!DNL Marketo Measure] データを収集して処理し、アトリビューションデータを提供する方法の概要を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}

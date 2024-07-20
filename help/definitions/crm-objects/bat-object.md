@@ -1,6 +1,6 @@
 ---
-title: '"[!DNL Marketo Measure] Attribution タッチポイントオブジェクト»'
-description: 詳細 [!DNL Marketo Measure] [!UICONTROL 属性タッチポイント].
+title: "[!DNL Marketo Measure] 属性タッチポイントオブジェクト"
+description: ' [!DNL Marketo Measure] [!UICONTROL  属性タッチポイント ] について説明します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '16'
-ht-degree: 0%
+ht-degree: 12%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL 属性タッチポイント] object
+# [!DNL Marketo Measure] [!UICONTROL  属性タッチポイント ] オブジェクト
 
-詳細 [!DNL Marketo Measure] [!UICONTROL 属性タッチポイント].
+[!DNL Marketo Measure] 属性タッチポイント [!UICONTROL  について説明 ] ます。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}

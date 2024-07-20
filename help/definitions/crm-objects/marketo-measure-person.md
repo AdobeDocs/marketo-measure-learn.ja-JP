@@ -1,6 +1,6 @@
 ---
-title: "[!DNL Marketo Measure] 人物"
-description: 詳しくは、 [!DNL Marketo Measure] リードオブジェクトと連絡先オブジェクト間のルックアップの作成方法を示す担当者オブジェクトです。
+title: "[!DNL Marketo Measure] Person"
+description: ' [!DNL Marketo Measure] Person オブジェクトと、このオブジェクトがリードオブジェクトおよび連絡先オブジェクト間のルックアップを作成する方法について説明します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: CRM Objects
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 5%
+ht-degree: 7%
 
 ---
 
-# [!DNL Marketo Measure] 人物
+# [!DNL Marketo Measure] 担当者
 
-詳しくは、 [!DNL Marketo Measure] リードオブジェクトと連絡先オブジェクト間のルックアップの作成方法を示す担当者オブジェクトです。
+[!DNL Marketo Measure] Person オブジェクトと、このオブジェクトがリードオブジェクトおよび連絡先オブジェクト間のルックアップを作成する方法について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347230/?learn=on){transcript=true}

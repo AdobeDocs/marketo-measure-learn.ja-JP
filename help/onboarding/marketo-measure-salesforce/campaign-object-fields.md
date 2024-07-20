@@ -1,6 +1,6 @@
 ---
-title: Campaign オブジェクトのフィールド
-description: このレッスンでは、Salesforce CRM キャンペーンオブジェクトのフィールドを扱います。 [!DNL Marketo Measure] は、を使用してキャンペーンとキャンペーンメンバーをマーケティングチャネルにマッピングします。 でオフラインチャネルを管理およびマッピングする際、これらのキャンペーンオブジェクトが何をおこなうかを理解することが重要です。 [!DNL Marketo Measure].
+title: Campaign オブジェクトフィールド
+description: このレッスンでは、がキャンペーンとキャンペーンメンバーをマーケティングチャネルにマッピングする  [!DNL Marketo Measure]  めに使用する Salesforce CRM キャンペーンオブジェクトフィールドについて説明します。  [!DNL Marketo Measure] でオフラインチャネルを管理およびマッピングする際には、これらのキャンペーンオブジェクトの動作を理解することが重要です。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Salesforce
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
-# Campaign オブジェクトのフィールド
+# Campaign オブジェクトフィールド
 
-このレッスンでは、Salesforce CRM キャンペーンオブジェクトのフィールドを扱います。 [!DNL Marketo Measure] は、を使用してキャンペーンとキャンペーンメンバーをマーケティングチャネルにマッピングします。 でオフラインチャネルを管理およびマッピングする際、これらのキャンペーンオブジェクトが何をおこなうかを理解することが重要です。 [!DNL Marketo Measure].
+このレッスンでは、[!DNL Marketo Measure] がキャンペーンとキャンペーンメンバーをマーケティングチャネルにマッピングするために使用する Salesforce CRM キャンペーンオブジェクトフィールドについて説明します。 [!DNL Marketo Measure] でオフラインチャネルを管理およびマッピングする際には、これらのキャンペーンオブジェクトの動作を理解することが重要です。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347238/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: ファーストタッチモデル
-description: このビデオでは、ファーストタッチモデルの詳細を説明します。
+description: このビデオでは、ファーストタッチモデルの詳細な説明を提供します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 20%
+ht-degree: 6%
 
 ---
 
 # ファーストタッチモデル
 
-このビデオでは、ファーストタッチモデルの詳細を説明します。
+このビデオでは、ファーストタッチモデルの詳細な説明を提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
-title: レポートとダッシュボード（実稼動インスタンス）の共有と非表示
-description: レポートやダッシュボードの表示、共有、非表示の方法について説明します。
+title: レポートおよびダッシュボードの共有と非表示（実稼動インスタンス）
+description: レポートとダッシュボードを表示、共有、非表示にする方法について説明します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,11 +12,11 @@ feature: Reporting
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 
-# レポートとダッシュボード（実稼動インスタンス）の共有と非表示
+# レポートおよびダッシュボードの共有と非表示（実稼動インスタンス）
 
 このレッスンでは、レポートとダッシュボードの表示と共有について説明します。
 

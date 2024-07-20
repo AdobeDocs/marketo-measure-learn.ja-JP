@@ -1,6 +1,6 @@
 ---
-title: Data Warehouse
-description: このレッスンでは、 [!DNL Marketo Measure] Data Warehouseを参照し、使用可能なデータと、選択した BI ツールを使用して実行できるレポートの例を示します。
+title: データウェアハウス
+description: このレッスンでは  [!DNL Marketo Measure] Data Warehouseについて説明し、任意の BI ツールを使用して使用可能なデータとレポートの例を示します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Data Warehouse
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '54'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
-# Data Warehouse
+# データウェアハウス
 
-このレッスンでは、 [!DNL Marketo Measure] Data Warehouseを参照し、使用可能なデータと、選択した BI ツールを使用して実行できるレポートの例を示します。
+このレッスンでは、[!DNL Marketo Measure] のData Warehouseについて説明し、使用可能なデータと、選択した BI ツールを使用して実行できるレポートの例を示します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}

@@ -1,6 +1,6 @@
 ---
 title: リード作成モデル
-description: このビデオでは、リード作成モデルの詳細を説明します。
+description: このビデオでは、リード作成モデルに関する詳細な説明を提供します。
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -12,12 +12,12 @@ feature: Attribution
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
 source-wordcount: '30'
-ht-degree: 20%
+ht-degree: 6%
 
 ---
 
 # リード作成モデル
 
-このビデオでは、リード作成モデルの詳細を説明します。
+このビデオでは、リード作成モデルに関する詳細な説明を提供します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}

@@ -1,7 +1,7 @@
 ---
-title: 概要 [!DNL Marketo Measure] Tutorials
+title: ' [!DNL Marketo Measure] Tutorialsの概要'
 recommendations: noDisplay, noCatalog
-description: 最大限に活用する [!DNL Adobe Marketo Measure] （旧称： [!DNL Bizible]）、業界をリードする B2B マーケティングアトリビューションアプリ。
+description: 業界をリードする B2B マーケティングアトリビューションアプリである  [!DNL Adobe Marketo Measure]  （旧称  [!DNL Bizible]）を最大限に活用します。
 doc-type: overview-page
 exl-id: 83dae370-8ffd-4715-b72e-4e232f1bf31d
 source-git-commit: ed3135104704d0742337f94c9d6a1c035f0449fe
@@ -13,7 +13,7 @@ ht-degree: 1%
 
 # [!DNL Marketo Measure] チュートリアル
 
-最大限に活用する [!DNL Adobe Marketo Measure] （旧称： [!DNL Bizible]）、業界をリードする B2B マーケティングアトリビューションアプリ。
+業界をリードする B2B マーケティングアトリビューションアプリである [!DNL Adobe Marketo Measure] （旧称 [!DNL Bizible]）を最大限に活用します。
 
 このユーザーガイドには、Marketo Measureの機能に関するビデオとチュートリアルが含まれています。
 
@@ -26,5 +26,5 @@ ht-degree: 1%
 
 ## Experience Leagueライブイベント
 
-* **[Marketo Measureの新しい Discover ダッシュボード](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
-  *新しく完全に改訂された Discover ダッシュボードについて説明します。*
+* **[Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+  *新しく完全に刷新された Discover ダッシュボードについて説明します。*
