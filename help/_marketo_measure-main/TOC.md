@@ -3,10 +3,10 @@ user-guide-title: "[!DNL Marketo Measure] Tutorials"
 breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
 user-guide-description: ' [!DNL Adobe Marketo Measure]  （旧称  [!DNL Bizible]）を最大限に活用する方法を説明します。 インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。'
 auto-video-transcripts: true
-source-git-commit: 36abe0beb0b228bf90cf22fbb0ae14c7a6277a21
+source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
-source-wordcount: '362'
-ht-degree: 4%
+source-wordcount: '365'
+ht-degree: 6%
 
 ---
 
@@ -14,6 +14,7 @@ ht-degree: 4%
 # [!DNL Marketo Measure] チュートリアル {#tutorials}
 
 + [[!DNL Marketo Measure] チュートリアル](overview.md)
++ [Marketo Measureの概要](/help/marketo-measure-overview.md)
 + Marketo Measureのインストール {#install}
    + [Marketo Measure インストール](/help/installing/install-production.md)
    + [権限セットの変更](/help/installing/modify-permission-sets-production.md)
@@ -48,13 +49,13 @@ ht-degree: 4%
       + [何  [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure データ](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
-      + [属性モデル](/help/onboarding/marketo-measure-101/attribution-models.md)
+      + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
       + [ [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートを保管](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
-      + [追加の Salesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
+      + [その他のSalesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
-   + [!DNL Marketo Measure] と Salesforce{#marketo-measure-salesforce}
+   + [!DNL Marketo Measure] とSalesforce{#marketo-measure-salesforce}
       + [ID 別リード レポート](/help/onboarding/marketo-measure-salesforce/leads-by-id-report.md)
       + [チャネルとサブチャネルの作成](/help/onboarding/marketo-measure-salesforce/creating-channels-subchannels.md)
       + [CSV ファイルを使用したチャネルルールの設定](/help/onboarding/marketo-measure-salesforce/channel-rules-csv.md)
@@ -80,7 +81,7 @@ ht-degree: 4%
       + [オンラインおよびオフラインのタッチポイント](/help/definitions/touchpoints/online-offline-touchpoints.md)
    + アトリビューション {#attribution}
       + [アトリビューションとは](/help/definitions/attribution/what-is-attribution.md)
-      + [属性モデル](/help/definitions/attribution/attribution-models.md)
+      + [アトリビューションモデル](/help/definitions/attribution/attribution-models.md)
       + [ファーストタッチモデル](/help/definitions/attribution/first-touch-model.md)
       + [リード作成モデル](/help/definitions/attribution/lead-creation-model.md)
       + [U字型モデル](/help/definitions/attribution/u-shaped-model.md)
