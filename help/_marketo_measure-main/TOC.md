@@ -119,4 +119,4 @@ ht-degree: 6%
    + [マーケティングアトリビューションの成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [マーケティングアトリビューションとデータサイロ](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League ライブ録画{#experience-league-live-recordings}
-   + [Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)

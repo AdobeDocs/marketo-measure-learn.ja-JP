@@ -26,5 +26,5 @@ ht-degree: 1%
 
 ## Experience Leagueライブイベント
 
-* **[Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
+* **[Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)**
   *新しく完全に刷新された Discover ダッシュボードについて説明します。*
