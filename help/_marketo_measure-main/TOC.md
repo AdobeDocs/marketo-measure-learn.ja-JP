@@ -104,10 +104,10 @@ ht-degree: 6%
       + [UTM パラメーター自動タギングツール](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM タギング](/help/definitions/utm-parameters/utm-tagging.md)
    + Account-based Marketing {#account-based-marketing}
-      + [[!UICONTROL  アカウントベースドマーケティング ] の概要](/help/definitions/account-based-marketing/abm-overview.md)
-      + [[!UICONTROL  エンゲージメントスコア別のアカウント ]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL  リードおよび取引先責任者がいるアカウント ] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL  アカウントごとのタッチポイント ] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+      + [[!UICONTROL &#x200B; アカウントベースドマーケティング &#x200B;] の概要](/help/definitions/account-based-marketing/abm-overview.md)
+      + [[!UICONTROL &#x200B; エンゲージメントスコア別のアカウント &#x200B;]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
+      + [[!UICONTROL &#x200B; リードおよび取引先責任者がいるアカウント &#x200B;] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL &#x200B; アカウントごとのタッチポイント &#x200B;] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + ブーメランステージ {#boomerang-stage}
       + [ブーメランステージの概要](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [ブーメランステージの設定](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)

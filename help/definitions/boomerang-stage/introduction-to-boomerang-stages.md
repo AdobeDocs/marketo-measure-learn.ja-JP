@@ -12,8 +12,8 @@ ht-degree: 4%
 
 ---
 
-# [!UICONTROL  ブーメラン ] ステージの概要
+# [!UICONTROL &#x200B; ブーメラン &#x200B;] ステージの概要
 
-ブーメランコースシリーズの最初のレッスンをご覧ください。 [!DNL Marketo Measure] で [!UICONTROL  ブーメランステージ ] を設定する方法を説明します。
+ブーメランコースシリーズの最初のレッスンをご覧ください。 [!DNL Marketo Measure] で [!UICONTROL &#x200B; ブーメランステージ &#x200B;] を設定する方法を説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
