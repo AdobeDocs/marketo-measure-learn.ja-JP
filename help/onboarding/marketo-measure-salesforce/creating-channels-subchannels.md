@@ -20,4 +20,4 @@ ht-degree: 5%
 
 このレッスンでは、[!DNL Marketo Measure] でチャネルとサブチャネルの階層と名前を作成および管理する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347244/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421399/?learn=on&captions=jpn){transcript=true}

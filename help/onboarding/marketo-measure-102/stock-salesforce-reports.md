@@ -20,4 +20,4 @@ ht-degree: 5%
 
 このレッスンでは、[!DNL Marketo Measure] に含まれる標準の事前定義済み Salesforce CRM レポートとデータオブジェクトについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347239/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421987/?learn=on&captions=jpn){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 8%
 
 Marketo Measureのレポート設定の概要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453709/?learn=on&captions=jpn){transcript=true}

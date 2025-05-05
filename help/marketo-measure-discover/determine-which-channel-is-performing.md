@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このレポートは、マーケティングファネルの上部から中央部に焦点を当てています。 レポートが作成されると、どのチャネルが最も多くの機会を生成しているかを確認できるので、これらのマーケティングチャネルに投資できるようになります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443741/?learn=on&captions=jpn)

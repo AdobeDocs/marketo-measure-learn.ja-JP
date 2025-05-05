@@ -18,4 +18,4 @@ ht-degree: 8%
 
 アトリビューションと、それが価値がある理由について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421796/?learn=on&captions=jpn){transcript=true}

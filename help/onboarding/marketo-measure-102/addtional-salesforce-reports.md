@@ -20,4 +20,4 @@ ht-degree: 7%
 
 このレッスンでは、Salesforce CRM のカスタム属性レポートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421944/?learn=on&captions=jpn){transcript=true}

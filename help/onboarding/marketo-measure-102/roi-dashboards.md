@@ -20,4 +20,4 @@ ht-degree: 6%
 
 このレッスンでは、[!DNL Marketo Measure] 内で使用可能な設定可能なダッシュボードの概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347243/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421993/?learn=on&captions=jpn){transcript=true}

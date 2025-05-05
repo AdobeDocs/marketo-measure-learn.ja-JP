@@ -21,4 +21,4 @@ ht-degree: 7%
 
 Marketo Measureの抑制、セグメント化およびコストの概要です。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453225/?learn=on&captions=jpn){transcript=true}

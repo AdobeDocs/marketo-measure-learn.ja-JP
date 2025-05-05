@@ -21,4 +21,4 @@ ht-degree: 11%
 
 Marketo Measure SFDC のインストールセットアップ
 
->[!VIDEO](https://video.tv.adobe.com/v/3424427/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451806/?learn=on&captions=jpn){transcript=true}

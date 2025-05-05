@@ -21,4 +21,4 @@ ht-degree: 10%
 
 Marketo Measure オフラインチャネルセットアップガイド
 
->[!VIDEO](https://video.tv.adobe.com/v/3424428/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454614/?learn=on&captions=jpn){transcript=true}

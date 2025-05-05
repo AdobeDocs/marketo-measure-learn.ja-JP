@@ -20,4 +20,4 @@ ht-degree: 7%
 
 このビデオでは、W字型モデルの詳細な説明を行います。
 
->[!VIDEO](https://video.tv.adobe.com/v/347209/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421357/?learn=on&captions=jpn){transcript=true}

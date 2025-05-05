@@ -20,4 +20,4 @@ ht-degree: 6%
 
 [!DNL Marketo Measure] アカウントを作成する方法と広告プラットフォーム（実稼動インスタンス）に接続する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347196/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421327/?learn=on&captions=jpn){transcript=true}

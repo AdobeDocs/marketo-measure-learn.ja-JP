@@ -21,4 +21,4 @@ ht-degree: 2%
 
 ROI ダッシュボードは、マーケターがチャネル、サブチャネル、キャンペーンをまたいだ投資回収率の詳細を表示できるようにします。 コストと収益のパターンを綿密に分類すると同時に、リードあたりのコスト、契約、機会などの指標にスポットライトを当て、マーケティングアトリビューションの包括的な理解を確保します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449465/?learn=on&captions=jpn){transcript=true}

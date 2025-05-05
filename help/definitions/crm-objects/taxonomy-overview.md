@@ -20,4 +20,4 @@ ht-degree: 5%
 
 様々な入力を使用し [!DNL Marketo Measure] データを収集して処理し、アトリビューションデータを提供する方法の概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347177/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421345/?learn=on&captions=jpn){transcript=true}

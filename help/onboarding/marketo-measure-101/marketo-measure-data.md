@@ -20,4 +20,4 @@ ht-degree: 4%
 
 このレッスンでは、[!DNL Marketo Measure] JavaScript、API 統合、UTM パラメーター、CRM データ、手動入力データなど、[!DNL Marketo Measure] データソースの概要を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347234/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421950/?learn=on&captions=jpn){transcript=true}

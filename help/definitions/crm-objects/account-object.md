@@ -19,4 +19,4 @@ ht-degree: 8%
 
 [!DNL Marketo Measure] とアカウントオブジェクトとの関係について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347222/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436081/?learn=on&captions=jpn){transcript=true}

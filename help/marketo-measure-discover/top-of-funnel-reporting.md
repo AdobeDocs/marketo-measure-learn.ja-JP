@@ -21,4 +21,4 @@ ht-degree: 2%
 
 このビデオでは、ファネルレポートの上部を順を追って説明します。このレポートには、Marketo Measureがトラッキングしているかどうか、リードを生成しているかどうか、チャネルの設定が正しく行われたかどうかを示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441781/?learn=on&captions=jpn){transcript=true}

@@ -21,4 +21,4 @@ ht-degree: 5%
 
 このレッスンでは、コンテンツマーケティングチームにとっての [!DNL Marketo Measure] の主な機能と価値について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347176/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431574/?learn=on&captions=jpn){transcript=true}

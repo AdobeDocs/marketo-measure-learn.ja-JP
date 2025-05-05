@@ -20,4 +20,4 @@ ht-degree: 6%
 
 このビデオでは、ファーストタッチモデルの詳細な説明を提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421375/?learn=on&captions=jpn){transcript=true}

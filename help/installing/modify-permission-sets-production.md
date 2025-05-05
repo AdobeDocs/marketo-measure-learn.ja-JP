@@ -20,4 +20,4 @@ ht-degree: 6%
 
 [!DNL Marketo Measure] （実稼動インスタンス）で権限セットを変更する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347189/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421333/?learn=on&captions=jpn){transcript=true}

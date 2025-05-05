@@ -18,4 +18,4 @@ ht-degree: 5%
 
 オンラインタッチポイントとオフラインタッチポイントの違いと、それらの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421802/?learn=on&captions=jpn){transcript=true}

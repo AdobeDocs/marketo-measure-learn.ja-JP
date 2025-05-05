@@ -21,4 +21,4 @@ ht-degree: 2%
 
 このレポートでは、完全なファネルレポートを見てみましょう。 この Discover レポートは、どのチャネルが関与したかを最初から最後まで追跡し、それらのチャネルに機会や売上高を関連付けます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443752/?learn=on&captions=jpn){transcript=true}

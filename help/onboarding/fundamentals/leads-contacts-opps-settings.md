@@ -21,4 +21,4 @@ ht-degree: 6%
 
 CRM 設定のリード、連絡先、商談のレビュー。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453720/?learn=on&captions=jpn){transcript=true}

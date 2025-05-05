@@ -20,4 +20,4 @@ ht-degree: 6%
 
 このビデオでは、リード作成モデルに関する詳細な説明を提供します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347227/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421369/?learn=on&captions=jpn){transcript=true}

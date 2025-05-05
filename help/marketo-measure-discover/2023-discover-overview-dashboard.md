@@ -21,4 +21,4 @@ ht-degree: 2%
 
 売上高の概要ダッシュボードは、CRM から得られた合計売上高に関するインサイトを提供し、マーケティング戦略の役割を明らかにします。 マーケティングが全体的な売上高に与える影響や、契約の正常なクローズに貢献する方法の概要が表示されます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446354/?learn=on&captions=jpn){transcript=true}

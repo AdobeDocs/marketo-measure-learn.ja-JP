@@ -21,4 +21,4 @@ ht-degree: 6%
 
 Marketo Measureのチャネルと統合の設定の概要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424430/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452372/?learn=on&captions=jpn){transcript=true}

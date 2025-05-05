@@ -21,4 +21,4 @@ ht-degree: 8%
 
 Marketo Measureの CRM 設定のレビュー。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424429/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3451739/?learn=on&captions=jpn){transcript=true}

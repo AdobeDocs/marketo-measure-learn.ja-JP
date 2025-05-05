@@ -21,4 +21,4 @@ ht-degree: 6%
 
 オンラインチャネル、チャネルの作成およびオンラインチャネルのワークシートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424422/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454132/?learn=on&captions=jpn){transcript=true}

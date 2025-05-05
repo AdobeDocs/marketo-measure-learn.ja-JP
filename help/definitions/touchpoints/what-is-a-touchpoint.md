@@ -18,4 +18,4 @@ ht-degree: 7%
 
 デジタルタッチポイントを作成する方法の 1 つを説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421814/?learn=on&captions=jpn){transcript=true}

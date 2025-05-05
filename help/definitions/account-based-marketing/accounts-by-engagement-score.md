@@ -16,4 +16,4 @@ ht-degree: 3%
 
 [!UICONTROL &#x200B; エンゲージメントスコア別アカウント &#x200B;] の概要  このチュートリアルでは、このスコアに含まれる指標と、それに関連付けられたレポートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347248/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432134/?learn=on&captions=jpn){transcript=true}

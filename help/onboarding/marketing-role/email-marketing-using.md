@@ -20,4 +20,4 @@ ht-degree: 4%
 
 このレッスンでは、メールマーケターが担当業務で [!DNL Marketo Measure] を使用する方法の簡単なデモを示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347170/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421975/?learn=on&captions=jpn){transcript=true}

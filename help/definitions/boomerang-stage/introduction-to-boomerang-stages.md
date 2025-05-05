@@ -16,4 +16,4 @@ ht-degree: 4%
 
 ブーメランコースシリーズの最初のレッスンをご覧ください。 [!DNL Marketo Measure] で [!UICONTROL &#x200B; ブーメランステージ &#x200B;] を設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431582/?learn=on&captions=jpn){transcript=true}

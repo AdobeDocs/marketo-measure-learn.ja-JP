@@ -20,4 +20,4 @@ ht-degree: 7%
 
 このビデオでは、U字型モデルの詳細な説明を行います。
 
->[!VIDEO](https://video.tv.adobe.com/v/347214/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421363/?learn=on&captions=jpn){transcript=true}

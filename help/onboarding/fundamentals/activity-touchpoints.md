@@ -21,4 +21,4 @@ ht-degree: 5%
 
 Marketo Measureでのアクティビティ設定のレビュー。 これは、Marketo Engageと CRM アクティビティをレビューします。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424420/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453214/?learn=on&captions=jpn){transcript=true}
