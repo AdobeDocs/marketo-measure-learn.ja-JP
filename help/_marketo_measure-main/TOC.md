@@ -51,7 +51,7 @@ ht-degree: 6%
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [ [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートを保管](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [その他のSalesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -119,4 +119,4 @@ ht-degree: 6%
    + [マーケティングアトリビューションの成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [マーケティングアトリビューションとデータサイロ](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League ライブ録画{#experience-league-live-recordings}
-   + [Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measureの新しい Discover ダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
