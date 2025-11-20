@@ -11,8 +11,8 @@ exl-id: c868532d-b6f9-4236-b431-d614189a9749
 feature: Installation
 source-git-commit: 262cb13fa02b32f7918ebd569720b80078c2b28d
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 40%
+source-wordcount: '20'
+ht-degree: 35%
 
 ---
 
@@ -20,4 +20,4 @@ ht-degree: 40%
 
 [!DNL Marketo Measure] の実稼動インスタンスのインストールについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421820/?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}

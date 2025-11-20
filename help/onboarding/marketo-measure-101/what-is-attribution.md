@@ -12,7 +12,7 @@ exl-id: fc35f6b0-9491-4438-a9a8-8026472d13b7
 feature: Attribution
 source-git-commit: 9cdab15d9c976c6160ca367dedc458fb388a2c83
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '72'
 ht-degree: 91%
 
 ---
@@ -21,4 +21,4 @@ ht-degree: 91%
 
 このレッスンでは、アトリビューションの定義、シングルタッチとマルチタッチのアトリビューションメソッドの比較および B2C と B2B ビジネス間のアトリビューションの比較について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421969/?learn=on&captions=jpn){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413090/?learn=on){transcript=true}

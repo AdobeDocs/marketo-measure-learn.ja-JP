@@ -1,12 +1,12 @@
 ---
-user-guide-title: "[!DNL Marketo Measure] Tutorials"
-breadcrumb-title: "[!DNL Marketo Measure] Tutorials"
+user-guide-title: '[!DNL Marketo Measure] チュートリアル'
+breadcrumb-title: '[!DNL Marketo Measure] チュートリアル'
 user-guide-description: ' [!DNL Adobe Marketo Measure]  （旧称  [!DNL Bizible]）を最大限に活用する方法を説明します。 インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。'
 auto-video-transcripts: true
 source-git-commit: 22c78a311d3a9509fb85f6b203c2154c6124c259
 workflow-type: tm+mt
 source-wordcount: '365'
-ht-degree: 6%
+ht-degree: 8%
 
 ---
 
@@ -15,12 +15,12 @@ ht-degree: 6%
 
 + [[!DNL Marketo Measure] チュートリアル](overview.md)
 + [Marketo Measureの概要](/help/marketo-measure-overview.md)
-+ Marketo Measureのインストール {#install}
++ Marketo Measure インストール {#install}
    + [Marketo Measure インストール](/help/installing/install-production.md)
    + [権限セットの変更](/help/installing/modify-permission-sets-production.md)
    + [レポートとダッシュボードの共有と非表示](/help/installing/sharing-reports-production.md)
    + [アカウント  [!DNL Marketo Measure]  作成](/help/installing/creating-marketo-measure-account-production.md)
-+ Onboarding {#onboarding}
++ オンボーディング {#onboarding}
    + ベストプラクティス {#best-practices}
       + [レポート設定の確認（Pt.1）](/help/onboarding/fundamentals/review-reporting-setting-pt1.md)
       + [チャネルと統合設定の確認（Pt.2）](/help/onboarding/fundamentals/channel-integration-settings.md)
@@ -33,7 +33,7 @@ ht-degree: 6%
       + [Marketo Engageとの接続](/help/onboarding/fundamentals/connection-with-marketo-engage.md)
       + [アクティビティタッチポイント](/help/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、セグメント化、コスト](/help/onboarding/fundamentals/suppression-segmentation-cost.md)
-   + マーケティングの役割 {#marketing-role}
+   + マーケティング役割 {#marketing-role}
       + [CMO [!DNL Marketo Measure] VP にとってのメリット](/help/onboarding/marketing-role/cmo-and-vp-why.md)
       + [CMO または VP として  [!DNL Marketo Measure]  を使用](/help/onboarding/marketing-role/cmo-and-vp-using.md)
       + [デ  [!DNL Marketo Measure]  マンド生成/有料メディアを必要とする理由](/help/onboarding/marketing-role/demand-gen-why.md)
@@ -44,14 +44,14 @@ ht-degree: 6%
       + [イベント  [!DNL Marketo Measure]  マーケターとしての使用](/help/onboarding/marketing-role/events-marketing-using.md)
       + [メ  [!DNL Marketo Measure]  ルマーケティングを使用する理由](/help/onboarding/marketing-role/email-marketing-why.md)
       + [電子メールマーケター  [!DNL Marketo Measure]  しての使用](/help/onboarding/marketing-role/email-marketing-using.md)
-   + [!DNL Marketo Measure] 101{#marketo-measure-101}
+   + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [アトリビューションとは](/help/onboarding/marketo-measure-101/what-is-attribution.md)
       + [何  [!DNL Marketo Measure]](/help/onboarding/marketo-measure-101/what-is-marketo-measure.md)
       + [Marketo Measure データ](/help/onboarding/marketo-measure-101/marketo-measure-data.md)
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
-   + [!DNL Marketo Measure] 102{#marketo-measure-102}
-      + [&#x200B; [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+   + [!DNL Marketo Measure] 102 {#marketo-measure-102}
+      + [ [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートを保管](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [その他のSalesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -62,7 +62,7 @@ ht-degree: 6%
       + [Campaign オブジェクトフィールド](/help/onboarding/marketo-measure-salesforce/campaign-object-fields.md)
       + [オフラインチャネルのマッピング](/help/onboarding/marketo-measure-salesforce/mapping-offline-channels.md)
       + [オフラインキャンペーンを同期](/help/onboarding/marketo-measure-salesforce/syncing-offline-campaigns.md)
-   + 基本 {#fundamentals}
+   + 基本{#fundamentals}
       + [タッチポイント抑制](/help/onboarding/marketo-measure-salesforce/touchpoint-suppression.md)
       + [アクティビティ属性](/help/onboarding/fundamentals/activities-attribution.md)
 + [!DNL Marketo Measure] Discover {#marketo-measure-discover}
@@ -72,9 +72,9 @@ ht-degree: 6%
    + [ROI ダッシュボードの確認](/help/marketo-measure-discover/2023-discover-roi-dashboard.md)
    + [実行しているチャネルの特定（Pt.1）](/help/marketo-measure-discover/top-of-funnel-reporting.md)
    + [実行しているチャネルの特定（Pt.2）](/help/marketo-measure-discover/determine-which-channel-is-performing.md)
-   + [ファネルレポートの確認（Pt.3）](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
+   + [funnel レポートの確認（Pt.3）](/help/marketo-measure-discover/build-a-full-funnel-report-pt3.md)
 + 定義 {#definitions}
-   + タッチポイント {#touchpoints}
+   + タッチポイント{#touchpoints}
       + [タッチポイントとは](/help/definitions/touchpoints/what-is-a-touchpoint.md)
       + [マイルストーンタッチポイント](/help/definitions/touchpoints/milestone-touchpoints.md)
       + [タッチポイントコンポーネント](/help/definitions/touchpoints/touchpoint-components.md)
@@ -103,20 +103,20 @@ ht-degree: 6%
       + [UTM のベストプラクティス](/help/definitions/utm-parameters/utm-best-practices.md)
       + [UTM パラメーター自動タギングツール](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM タギング](/help/definitions/utm-parameters/utm-tagging.md)
-   + Account-based Marketing {#account-based-marketing}
-      + [[!UICONTROL &#x200B; アカウントベースドマーケティング &#x200B;] の概要](/help/definitions/account-based-marketing/abm-overview.md)
-      + [[!UICONTROL &#x200B; エンゲージメントスコア別のアカウント &#x200B;]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL &#x200B; リードおよび取引先責任者がいるアカウント &#x200B;] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL &#x200B; アカウントごとのタッチポイント &#x200B;] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+   + アカウントベースドマーケティング {#account-based-marketing}
+      + [[!UICONTROL  アカウントベースドマーケティング ] の概要](/help/definitions/account-based-marketing/abm-overview.md)
+      + [[!UICONTROL  エンゲージメントスコア別のアカウント ]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
+      + [[!UICONTROL  リードおよび取引先責任者がいるアカウント ] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL  アカウントごとのタッチポイント ] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + ブーメランステージ {#boomerang-stage}
       + [ブーメランステージの概要](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [ブーメランステージの設定](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
 + Marketo Measure Ultimate {#marketo-measure-ultimate}
-   + [Marketo Measure Ultimate の概要](/help/marketo-measure-ultimate/overview.md)
-   + [Attribution AIの概要](/help/marketo-measure-ultimate/attribution-ai-overview.md)
+   + [Marketo Measure Ultimateの概要](/help/marketo-measure-ultimate/overview.md)
+   + [Attribution AI の概要](/help/marketo-measure-ultimate/attribution-ai-overview.md)
 + 福音伝道者の話 {#evangelist}
    + [マーケティングアトリビューションと指標](/help/evangelist-talks/attribution-and-metrics.md)
    + [マーケティングアトリビューションの成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [マーケティングアトリビューションとデータサイロ](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League ライブ録画{#experience-league-live-recordings}
-   + [Marketo Measureの新しい Discover ダッシュボード &#x200B;](https://experienceleague.adobe.com/ja/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
