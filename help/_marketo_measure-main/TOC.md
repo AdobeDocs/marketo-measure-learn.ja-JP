@@ -51,7 +51,7 @@ ht-degree: 8%
       + [タッチポイント](/help/onboarding/marketo-measure-101/touchpoints.md)
       + [アトリビューションモデル](/help/onboarding/marketo-measure-101/attribution-models.md)
    + [!DNL Marketo Measure] 102 {#marketo-measure-102}
-      + [ [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
+      + [&#x200B; [!DNL Marketo Measure] ROI ダッシュボード](/help/onboarding/marketo-measure-102/roi-dashboards.md)
       + [Salesforce レポートを保管](/help/onboarding/marketo-measure-102/stock-salesforce-reports.md)
       + [その他のSalesforce レポート](/help/onboarding/marketo-measure-102/addtional-salesforce-reports.md)
       + [Data Warehouse](/help/onboarding/marketo-measure-102/data-warehouse.md)
@@ -104,10 +104,10 @@ ht-degree: 8%
       + [UTM パラメーター自動タギングツール](/help/definitions/utm-parameters/utm-parameter-auto-tagging-tools.md)
       + [UTM タギング](/help/definitions/utm-parameters/utm-tagging.md)
    + アカウントベースドマーケティング {#account-based-marketing}
-      + [[!UICONTROL  アカウントベースドマーケティング ] の概要](/help/definitions/account-based-marketing/abm-overview.md)
-      + [[!UICONTROL  エンゲージメントスコア別のアカウント ]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
-      + [[!UICONTROL  リードおよび取引先責任者がいるアカウント ] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
-      + [[!UICONTROL  アカウントごとのタッチポイント ] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
+      + [[!UICONTROL &#x200B; アカウントベースドマーケティング &#x200B;] の概要](/help/definitions/account-based-marketing/abm-overview.md)
+      + [[!UICONTROL &#x200B; エンゲージメントスコア別のアカウント &#x200B;]](/help/definitions/account-based-marketing/accounts-by-engagement-score.md)
+      + [[!UICONTROL &#x200B; リードおよび取引先責任者がいるアカウント &#x200B;] レポート](/help/definitions/account-based-marketing/accounts-with-leads-and-contacts.md)
+      + [[!UICONTROL &#x200B; アカウントごとのタッチポイント &#x200B;] レポート](/help/definitions/account-based-marketing/touchpoints-per-account-report.md)
    + ブーメランステージ {#boomerang-stage}
       + [ブーメランステージの概要](/help/definitions/boomerang-stage/introduction-to-boomerang-stages.md)
       + [ブーメランステージの設定](/help/definitions/boomerang-stage/setting-up-boomerang-stages.md)
@@ -119,4 +119,4 @@ ht-degree: 8%
    + [マーケティングアトリビューションの成熟度](/help/evangelist-talks/marketing-attribution-maturity.md)
    + [マーケティングアトリビューションとデータサイロ](/help/evangelist-talks/marketing-attribution-and-data-silos.md)
 + Experience League ライブ録画{#experience-league-live-recordings}
-   + [Marketo Measureの新しい Discover ダッシュボード ](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
+   + [Marketo Measureの新しい Discover ダッシュボード &#x200B;](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-04-18-24)
