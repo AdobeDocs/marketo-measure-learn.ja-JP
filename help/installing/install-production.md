@@ -18,6 +18,6 @@ ht-degree: 35%
 
 # [!DNL Marketo Measure] インストール（実稼動インスタンス）
 
-[!DNL Marketo Measure] の実稼動インスタンスのインストールについて説明します。
+[!DNL Marketo Measure] の本番稼働インスタンスのインストールについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3421820/?captions=jpn&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/347185/?learn=on){transcript=true}
