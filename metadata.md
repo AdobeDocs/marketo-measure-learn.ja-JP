@@ -2,22 +2,24 @@
 cloud: Experience Cloud
 solution: Marketo Measure
 feature-set: Marketo Measure
+landing-page-name: marketo-measure
+landing-page-breadcrumb-title: Marketo Measure
 product: Marketo
 type: Tutorial
 doc-type: video
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketo-measure-learn.ja-JP
+git-repo: https://github.com/AdobeDocs/marketo-measure-learn.en
 index: true
-source-git-commit: 85d109f25e71ea0888d873792a348c255c9876f0
+source-git-commit: bff63a5fea2a7248c64ebbe4d64e4fa10ad1e7d2
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 80%
+source-wordcount: '70'
+ht-degree: 0%
 
 ---
 
 
-# 社内用メタデータ
+# 内部使用のためのメタデータ
 
-metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトリレベルのメタデータが含まれます。任意のユーザーガイドの metadata.md コンテンツを変更する場合は、どの TOC.md ファイルででもおこなうことができます。
+metadata.md ファイルには、リポジトリ内のユーザーガイド TOC.md ファイルに渡されるリポジトレベルのメタデータが含まれています。 任意のユーザーガイドのmetadata.md コンテンツを変更する場合は、任意のTOC.md ファイルで変更します。
 
-[ソリューション&#x200B;**、**&#x200B;製品&#x200B;**、**&#x200B;タイプ&#x200B;**の有効な値のリストについては、**&#x200B;メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)を参照してください。
+**solution**、**product**、**type**&#x200B;の有効な値のリストについては、[ メタデータ ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html)を参照してください。
