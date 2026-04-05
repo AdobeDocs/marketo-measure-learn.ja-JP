@@ -12,7 +12,7 @@ ht-degree: 6%
 
 ---
 
-# [!UICONTROL Boomerang ステージ ]を設定
+# [!UICONTROL Boomerang ステージ &#x200B;]を設定
 
 Boomerang コースシリーズの第2 レッスンをご覧ください。 これを見る前に最初のレッスンを受けてください。 ここでは、[!DNL Marketo Measure]での[!UICONTROL Boomerang Stages]の設定について説明します。
 

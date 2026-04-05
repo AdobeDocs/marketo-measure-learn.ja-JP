@@ -1,6 +1,6 @@
 ---
 title: '[!DNL Marketo Measure] アトリビューション タッチポイント オブジェクト'
-description: ' [!DNL Marketo Measure] [!UICONTROL  アトリビューションタッチポイント ]について説明します。'
+description: ' [!DNL Marketo Measure] [!UICONTROL &#x200B; アトリビューションタッチポイント &#x200B;]について説明します。'
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -16,8 +16,8 @@ ht-degree: 0%
 
 ---
 
-# [!DNL Marketo Measure] [!UICONTROL 属性タッチポイント ] オブジェクト
+# [!DNL Marketo Measure] [!UICONTROL 属性タッチポイント &#x200B;] オブジェクト
 
-[!DNL Marketo Measure] [!UICONTROL  アトリビューションタッチポイント ]について説明します。
+[!DNL Marketo Measure] [!UICONTROL &#x200B; アトリビューションタッチポイント &#x200B;]について説明します。
 
 >[!VIDEO](https://video.tv.adobe.com/v/347224/?learn=on){transcript=true}
