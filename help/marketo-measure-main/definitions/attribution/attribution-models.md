@@ -18,4 +18,4 @@ ht-degree: 8%
 
 [!DNL Marketo Measure]のすぐに使用できるアトリビューションモデルの概要を説明します。 シングルタッチモデルとマルチタッチモデルの違いを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347221/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421790/?captions=jpn&learn=on){transcript=true}

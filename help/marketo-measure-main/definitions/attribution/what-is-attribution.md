@@ -18,4 +18,4 @@ ht-degree: 0%
 
 アトリビューションとは？その重要性を解説
 
->[!VIDEO](https://video.tv.adobe.com/v/347233/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421796/?captions=jpn&learn=on){transcript=true}

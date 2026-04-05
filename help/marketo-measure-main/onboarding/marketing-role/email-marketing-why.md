@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このレッスンでは、メールマーケター向けの[!DNL Marketo Measure]の主な機能と価値をまとめています。
 
->[!VIDEO](https://video.tv.adobe.com/v/347167/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421981/?captions=jpn&learn=on){transcript=true}

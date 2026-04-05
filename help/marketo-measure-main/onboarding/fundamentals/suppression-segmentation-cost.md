@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measureの抑制、セグメンテーション、コストの概要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424418/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453225/?captions=jpn&learn=on){transcript=true}

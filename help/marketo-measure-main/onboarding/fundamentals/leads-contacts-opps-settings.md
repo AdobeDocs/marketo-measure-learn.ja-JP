@@ -21,4 +21,4 @@ ht-degree: 0%
 
 CRMの設定リード、取引先責任者、商談の確認。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424425/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453720/?captions=jpn&learn=on){transcript=true}

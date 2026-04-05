@@ -21,4 +21,4 @@ ht-degree: 30%
 
 Adobeソリューションコンサルタント（Marketo Measure）のAndy Schneider氏とAdobeMarketoのエバンジェリストであるIan Michels氏が、マーケティングアトリビューションにおける会話や体験をどのように活用しているのかを、顧客と共有します。 このトピックでは、MOPs チームが、アトリビューションレポートではなく、Fortune 100の企業がどのようにMarketo Measureを活用しているのかを解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426840/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3456510/?captions=jpn&learn=on)

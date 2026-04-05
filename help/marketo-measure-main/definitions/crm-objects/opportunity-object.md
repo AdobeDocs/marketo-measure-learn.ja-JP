@@ -20,4 +20,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]と商談オブジェクトの関係の内訳を確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347223/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421956/?captions=jpn&learn=on){transcript=true}

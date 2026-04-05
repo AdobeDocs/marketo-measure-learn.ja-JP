@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo Measureのレポート設定の概要。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424431/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453709/?captions=jpn&learn=on){transcript=true}

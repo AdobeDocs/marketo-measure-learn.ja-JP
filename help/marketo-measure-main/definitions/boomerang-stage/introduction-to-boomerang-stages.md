@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Boomerang コースシリーズの最初のレッスンをご覧ください。 [!DNL Marketo Measure]で[!UICONTROL Boomerang Stages]を設定する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347229/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3431582/?captions=jpn&learn=on){transcript=true}

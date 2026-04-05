@@ -20,4 +20,4 @@ ht-degree: 68%
 
 アドビのアトリビューション AI が、高度な AI/ML モデリングを使用して B2B マーケティング測定を強化し、正確なアトリビューションに関するインサイトを提供し、正確な分析のためにバイアスを排除する方法を説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433052/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447222/?captions=jpn&learn=on)

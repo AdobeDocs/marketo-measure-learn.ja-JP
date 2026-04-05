@@ -21,4 +21,4 @@ ht-degree: 0%
 
 このビデオでは、funnel レポートの上部を説明します。次に、Marketo Measureがトラッキングしているかどうか、リードを生成しているかどうか、チャネルの設定が正しく行われているかどうかを確認します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424434/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3441781/?captions=jpn&learn=on){transcript=true}

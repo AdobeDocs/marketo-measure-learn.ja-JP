@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo Measure]の主要なマイルストーンとその作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347215/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421808/?captions=jpn&learn=on){transcript=true}

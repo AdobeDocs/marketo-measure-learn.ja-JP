@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このレッスンでは、Salesforce CRMのカスタムアトリビューションレポートについて説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347242/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421944/?captions=jpn&learn=on){transcript=true}

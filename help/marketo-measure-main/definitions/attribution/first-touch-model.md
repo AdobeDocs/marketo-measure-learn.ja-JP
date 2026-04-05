@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このビデオでは、ファーストタッチモデルについて詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347216/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421375/?captions=jpn&learn=on){transcript=true}

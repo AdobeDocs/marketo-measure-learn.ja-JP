@@ -20,4 +20,4 @@ ht-degree: 7%
 
 このレッスンでは、[!DNL Marketo Measure] Data Warehouseについて説明し、任意のBI ツールを使用して使用可能なデータとレポートの例を示します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421938/?captions=jpn&learn=on){transcript=true}

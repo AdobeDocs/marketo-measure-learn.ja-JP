@@ -20,4 +20,4 @@ ht-degree: 17%
 
 このレッスンでは、Salesforce CRM キャンペーンを[!DNL Marketo Measure]と個別または一括で同期する方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347250/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421387/?captions=jpn&learn=on){transcript=true}

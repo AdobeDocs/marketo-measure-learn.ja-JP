@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このレッスンでは、Salesforce CRMのリード別ID レポートについて説明します
 
->[!VIDEO](https://video.tv.adobe.com/v/347182/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421930/?captions=jpn&learn=on){transcript=true}

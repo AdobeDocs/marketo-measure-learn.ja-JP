@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本レポートでは、マーケティングfunnelの中部および中部に焦点を当てています。 レポートを作成すれば、どのチャネルが最も多くの商談を生み出しているのかを把握し、それらのチャネルに投資することができます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424433/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443741/?captions=jpn&learn=on)

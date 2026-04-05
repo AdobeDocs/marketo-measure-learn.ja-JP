@@ -21,4 +21,4 @@ ht-degree: 0%
 
 ROI ダッシュボードでは、チャネル、サブチャネル、キャンペーンをまたいで、投資収益率を詳細に把握できます。 コストと収益のパターンを詳細に分析すると同時に、リード単価、取引、機会などの指標に焦点を当て、マーケティングアトリビューションを包括的に把握できます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425023/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449465/?captions=jpn&learn=on){transcript=true}

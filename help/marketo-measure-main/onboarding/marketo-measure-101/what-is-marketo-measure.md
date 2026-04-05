@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このレッスンでは、Marketo Measureの機能とその理由について簡単に説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347236/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421962/?captions=jpn&learn=on){transcript=true}

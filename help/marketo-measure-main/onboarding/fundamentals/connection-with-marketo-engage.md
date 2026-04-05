@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Marketo EngageによるコネクテッドMarketo Measureの概要
 
->[!VIDEO](https://video.tv.adobe.com/v/3424426/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449377/?captions=jpn&learn=on){transcript=true}

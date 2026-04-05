@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このレッスンでは、Salesforce CRMでタッチポイント抑制ルールを設定する方法と、これを行う一般的な理由について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347188/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421381/?captions=jpn&learn=on){transcript=true}

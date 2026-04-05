@@ -20,4 +20,4 @@ ht-degree: 0%
 
 このビデオでは、フルパスモデルについて詳しく説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421351/?captions=jpn&learn=on){transcript=true}

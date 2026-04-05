@@ -18,4 +18,4 @@ ht-degree: 0%
 
 オンライン顧客接点とオフライン顧客接点の違いと、それらの作成方法について説明します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347212/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421802/?captions=jpn&learn=on){transcript=true}

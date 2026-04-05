@@ -19,4 +19,4 @@ ht-degree: 64%
 
 Marketo Measure Ultimate を使用し、B2B マーケターが同じ種類の複数のソースを含むほぼすべてのソースからデータを収集して、徹底したアトリビューションを行う方法について説明します。 これにより、B2B マーケターは、マーケティング戦略を強化し、ビジネスの成長を高めるための高度な分析とインサイトにアクセスできるようになります。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433044/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446465/?captions=jpn&learn=on)

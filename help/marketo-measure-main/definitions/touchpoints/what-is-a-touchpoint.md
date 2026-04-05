@@ -18,4 +18,4 @@ ht-degree: 0%
 
 デジタル接点を構築する方法をご紹介します。
 
->[!VIDEO](https://video.tv.adobe.com/v/347210/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3421814/?captions=jpn&learn=on){transcript=true}

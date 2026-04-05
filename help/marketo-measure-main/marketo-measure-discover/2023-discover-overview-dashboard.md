@@ -21,4 +21,4 @@ ht-degree: 0%
 
 収益概要ダッシュボードでは、CRMの総売上に関するインサイトを獲得し、マーケティング戦略の役割を把握できます。 マーケティングが全体的な売上にどのように影響し、成約に貢献するのかを包括的に解説します。
 
->[!VIDEO](https://video.tv.adobe.com/v/3425025/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446354/?captions=jpn&learn=on){transcript=true}

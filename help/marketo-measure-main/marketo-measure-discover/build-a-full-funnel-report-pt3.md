@@ -21,4 +21,4 @@ ht-degree: 0%
 
 本稿では、funnelの全報告書を見ていく。 この「もっと知る」レポートでは、エンゲージメントしたチャネルを最初から最後まで追跡し、そのチャネルに商談や売上を関連付けます。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424432/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443752/?captions=jpn&learn=on){transcript=true}
