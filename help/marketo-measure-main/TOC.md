@@ -3,7 +3,7 @@ user-guide-title: '[!DNL Marketo Measure] チュートリアル'
 breadcrumb-title: '[!DNL Marketo Measure] チュートリアル'
 user-guide-description: ' [!DNL Adobe Marketo Measure]  （旧 [!DNL Bizible]）を最大限に活用する方法について説明します。 インストール、オンボーディング、基本および定義に関するチュートリアルをご覧ください。'
 auto-video-transcripts: true
-source-git-commit: 557fe2c83a26425c5c849e6260a416215ce1c7fb
+source-git-commit: 0e23db8bde1e8178bb20e9b5b8aca1dce2299f35
 workflow-type: tm+mt
 source-wordcount: '374'
 ht-degree: 8%
@@ -34,15 +34,15 @@ ht-degree: 8%
       + [アクティビティのタッチポイント](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、セグメンテーション、コスト](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + マーケター {#marketing-role}
-      + [CMOとVPが [!DNL Marketo Measure] の理由](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + [CMOおよびVP向け&lbrace;hide-from-tocWhy [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [&#x200B; [!DNL Marketo Measure] をCMOまたはVPとして使用している](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
-      + [デマンドジェネレーション/有料メディアに [!DNL Marketo Measure] の理由](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md)
+      + {hide-from-toc}[&#x200B; デマンドジェネレーション/有料メディア の理由 [!DNL Marketo Measure]](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md) 
       + [需要創出/有料メディアマーケターとして [!DNL Marketo Measure] を使用](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
-      + [コンテンツマーケティングに [!DNL Marketo Measure] の理由](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
+      + {hide-from-toc}[&#x200B; コンテンツマーケティングの [!DNL Marketo Measure] 理由](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] をコンテンツマーケターとして使用](/help/marketo-measure-main/onboarding/marketing-role/content-marketing-using.md)
-      + [イベントマーケティングに [!DNL Marketo Measure] の理由](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
+      + {hide-from-toc}[なぜ [!DNL Marketo Measure]  イベントマーケティング の](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] をイベントマーケターとして使用](/help/marketo-measure-main/onboarding/marketing-role/events-marketing-using.md)
-      + [メールマーケティングで [!DNL Marketo Measure] の理由](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
+      + {hide-from-toc}[なぜ [!DNL Marketo Measure] 電子メールマーケティング の](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-why.md)
       + [&#x200B; [!DNL Marketo Measure] をメールマーケターとして使用](/help/marketo-measure-main/onboarding/marketing-role/email-marketing-using.md)
    + [!DNL Marketo Measure] 101 {#marketo-measure-101}
       + [アトリビューションとは](/help/marketo-measure-main/onboarding/marketo-measure-101/what-is-attribution.md)
