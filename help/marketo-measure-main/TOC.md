@@ -34,7 +34,7 @@ ht-degree: 8%
       + [アクティビティのタッチポイント](/help/marketo-measure-main/onboarding/fundamentals/activity-touchpoints.md)
       + [抑制、セグメンテーション、コスト](/help/marketo-measure-main/onboarding/fundamentals/suppression-segmentation-cost.md)
    + マーケター {#marketing-role}
-      + [CMOおよびVP向け&lbrace;hide-from-tocWhy [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
+      + {hide-from-toc}[CMOおよびVP向けWhy [!DNL Marketo Measure] &#x200B;](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-why.md)
       + [&#x200B; [!DNL Marketo Measure] をCMOまたはVPとして使用している](/help/marketo-measure-main/onboarding/marketing-role/cmo-and-vp-using.md)
       + {hide-from-toc}[&#x200B; デマンドジェネレーション/有料メディア の理由 [!DNL Marketo Measure]](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-why.md) 
       + [需要創出/有料メディアマーケターとして [!DNL Marketo Measure] を使用](/help/marketo-measure-main/onboarding/marketing-role/demand-gen-using.md)
